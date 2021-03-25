@@ -1,0 +1,8 @@
+home 首页模块
+question 问答模块
+video 视频模块
+profile 个人中心
+article 文章详情
+login 登录模块
+user 用户模块
+search 搜索模块
